@@ -1,0 +1,2 @@
+# GAi
+Generative ai
